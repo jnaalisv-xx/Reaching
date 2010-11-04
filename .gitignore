@@ -1,0 +1,7 @@
+*.o
+Makefile
+Reaching
+.dep.inc
+Makefile-Reaching.mk
+nbproject
+images/.imagecache
